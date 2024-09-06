@@ -1,0 +1,8 @@
+[
+    {
+        "model": "DeiT",
+        "attack": "fgsm",
+        "clean_acc": 84.59,
+        "robust_acc": 53.222
+    }
+]

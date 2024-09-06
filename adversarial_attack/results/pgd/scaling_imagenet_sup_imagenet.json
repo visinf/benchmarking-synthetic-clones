@@ -1,0 +1,8 @@
+[
+    {
+        "model": "scaling_imagenet_sup",
+        "attack": "pgd",
+        "clean_acc": 50.96,
+        "robust_acc": 5.056
+    }
+]

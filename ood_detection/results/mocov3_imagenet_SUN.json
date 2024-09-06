@@ -1,0 +1,9 @@
+{
+    "model": "mocov3",
+    "in_dist": "imagenet",
+    "ood_dist": "SUN",
+    "auroc": 0.841495589,
+    "aupr": 0.959931640652833,
+    "fpr": 0.6505,
+    "score": "entropy"
+}

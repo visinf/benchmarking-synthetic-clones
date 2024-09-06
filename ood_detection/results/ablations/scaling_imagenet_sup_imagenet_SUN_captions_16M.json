@@ -1,0 +1,11 @@
+{
+    "model": "scaling_imagenet_sup",
+    "in_dist": "imagenet",
+    "ood_dist": "SUN",
+    "auroc": 0.774171662,
+    "aupr": 0.9349265000829481,
+    "fpr": 0.7409,
+    "score": "entropy",
+    "prompt_type": "captions",
+    "dataset_size": "16M"
+}

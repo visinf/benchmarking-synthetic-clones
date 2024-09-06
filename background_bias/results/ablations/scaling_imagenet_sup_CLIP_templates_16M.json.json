@@ -1,0 +1,8 @@
+{
+    "model": "scaling_imagenet_sup",
+    "original_acc": 0.8970370370370371,
+    "mixed_same_acc": 0.8249382716049383,
+    "mixed_rand_acc": 0.7785185185185185,
+    "prompt_type": "CLIP_templates",
+    "dataset_size": "16M"
+}

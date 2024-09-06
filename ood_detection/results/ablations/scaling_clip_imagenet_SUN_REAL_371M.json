@@ -1,0 +1,11 @@
+{
+    "model": "scaling_clip",
+    "in_dist": "imagenet",
+    "ood_dist": "SUN",
+    "auroc": 0.7042066650000001,
+    "aupr": 0.914153658502607,
+    "fpr": 0.8232,
+    "score": "entropy",
+    "prompt_type": "REAL",
+    "dataset_size": "371M"
+}

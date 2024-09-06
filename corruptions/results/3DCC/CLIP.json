@@ -1,0 +1,152 @@
+[
+    {
+        "model": "CLIP",
+        "corruption": "near_focus",
+        "severity": 1,
+        "acc": 59.32
+    },
+    {
+        "model": "CLIP",
+        "corruption": "near_focus",
+        "severity": 2,
+        "acc": 58.177
+    },
+    {
+        "model": "CLIP",
+        "corruption": "near_focus",
+        "severity": 3,
+        "acc": 56.934
+    },
+    {
+        "model": "CLIP",
+        "corruption": "near_focus",
+        "severity": 4,
+        "acc": 55.6665
+    },
+    {
+        "model": "CLIP",
+        "corruption": "near_focus",
+        "severity": 5,
+        "acc": 54.426
+    },
+    {
+        "model": "CLIP",
+        "corruption": "far_focus",
+        "severity": 1,
+        "acc": 55.2377
+    },
+    {
+        "model": "CLIP",
+        "corruption": "far_focus",
+        "severity": 2,
+        "acc": 54.9866
+    },
+    {
+        "model": "CLIP",
+        "corruption": "far_focus",
+        "severity": 3,
+        "acc": 54.1848
+    },
+    {
+        "model": "CLIP",
+        "corruption": "far_focus",
+        "severity": 4,
+        "acc": 53.1202
+    },
+    {
+        "model": "CLIP",
+        "corruption": "far_focus",
+        "severity": 5,
+        "acc": 51.9306
+    },
+    {
+        "model": "CLIP",
+        "corruption": "fog_3d",
+        "severity": 1,
+        "acc": 52.7425
+    },
+    {
+        "model": "CLIP",
+        "corruption": "fog_3d",
+        "severity": 2,
+        "acc": 52.6572
+    },
+    {
+        "model": "CLIP",
+        "corruption": "fog_3d",
+        "severity": 3,
+        "acc": 51.7626
+    },
+    {
+        "model": "CLIP",
+        "corruption": "fog_3d",
+        "severity": 4,
+        "acc": 50.4276
+    },
+    {
+        "model": "CLIP",
+        "corruption": "fog_3d",
+        "severity": 5,
+        "acc": 48.8613
+    },
+    {
+        "model": "CLIP",
+        "corruption": "xy_motion_blur",
+        "severity": 1,
+        "acc": 48.8634
+    },
+    {
+        "model": "CLIP",
+        "corruption": "xy_motion_blur",
+        "severity": 2,
+        "acc": 48.3304
+    },
+    {
+        "model": "CLIP",
+        "corruption": "xy_motion_blur",
+        "severity": 3,
+        "acc": 47.4281
+    },
+    {
+        "model": "CLIP",
+        "corruption": "xy_motion_blur",
+        "severity": 4,
+        "acc": 46.3015
+    },
+    {
+        "model": "CLIP",
+        "corruption": "xy_motion_blur",
+        "severity": 5,
+        "acc": 45.0532
+    },
+    {
+        "model": "CLIP",
+        "corruption": "z_motion_blur",
+        "severity": 1,
+        "acc": 44.959
+    },
+    {
+        "model": "CLIP",
+        "corruption": "z_motion_blur",
+        "severity": 2,
+        "acc": 44.5965
+    },
+    {
+        "model": "CLIP",
+        "corruption": "z_motion_blur",
+        "severity": 3,
+        "acc": 44.0344
+    },
+    {
+        "model": "CLIP",
+        "corruption": "z_motion_blur",
+        "severity": 4,
+        "acc": 43.3313
+    },
+    {
+        "model": "CLIP",
+        "corruption": "z_motion_blur",
+        "severity": 5,
+        "acc": 42.5919
+    }
+]

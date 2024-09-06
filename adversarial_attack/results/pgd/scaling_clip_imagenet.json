@@ -1,0 +1,8 @@
+[
+    {
+        "model": "scaling_clip",
+        "attack": "pgd",
+        "clean_acc": 55.114,
+        "robust_acc": 2.022
+    }
+]

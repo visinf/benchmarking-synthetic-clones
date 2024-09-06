@@ -1,0 +1,8 @@
+[
+    {
+        "model": "CLIP",
+        "attack": "pgd",
+        "clean_acc": 68.268,
+        "robust_acc": 6.31
+    }
+]

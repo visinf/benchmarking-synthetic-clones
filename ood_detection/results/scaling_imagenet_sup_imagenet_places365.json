@@ -1,0 +1,9 @@
+{
+    "model": "scaling_imagenet_sup",
+    "in_dist": "imagenet",
+    "ood_dist": "places365",
+    "auroc": 0.724196974,
+    "aupr": 0.9251749496532344,
+    "fpr": 0.7908,
+    "score": "entropy"
+}

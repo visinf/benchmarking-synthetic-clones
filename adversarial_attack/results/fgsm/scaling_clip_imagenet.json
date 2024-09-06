@@ -1,0 +1,8 @@
+[
+    {
+        "model": "scaling_clip",
+        "attack": "fgsm",
+        "clean_acc": 55.114,
+        "robust_acc": 2.398
+    }
+]

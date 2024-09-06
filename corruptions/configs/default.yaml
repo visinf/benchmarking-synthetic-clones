@@ -1,0 +1,23 @@
+defaults:  
+  - _self_  
+  - override hydra/hydra_logging: disabled  
+  - override hydra/job_logging: disabled  
+  
+hydra:  
+  output_subdir: null  
+  run:  
+    dir: .
+
+data_params:
+  prompt_type: "real"
+  num_data_points: "1M"
+
+exp:
+  model: resnet50
+  eval_path: '/fastdata/ksingh/robust/corruptions/'
+  save_path: '/visinf/home/ksingh/syn-rep-learn/corruptions/results/'
+  name: '${model}.json'
+  seed: 42
+  dataset: 'imagenet'
+  ablation: False
+  n_workers: 4

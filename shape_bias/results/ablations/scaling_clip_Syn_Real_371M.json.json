@@ -1,0 +1,25 @@
+{
+    "model_name": "scaling_clip",
+    "dataset": "cue_conflict",
+    "shape_bias": 0.6007905138339921,
+    "shape_bias_per_cat": {
+        "airplane": 0.8571428571428572,
+        "bear": 0.509433962264151,
+        "bicycle": 1.0,
+        "bird": 0.8148148148148148,
+        "boat": 0.8461538461538461,
+        "bottle": 0.4339622641509434,
+        "car": 0.6507936507936508,
+        "cat": 0.4647887323943662,
+        "chair": 0.5333333333333333,
+        "clock": 0.487603305785124,
+        "dog": 0.6875,
+        "elephant": 1.0,
+        "keyboard": 0.4647887323943662,
+        "knife": 0.7619047619047619,
+        "oven": 1.0,
+        "truck": 0.8809523809523809
+    },
+    "prompt_type": "Syn_Real",
+    "dataset_size": "371M"
+}

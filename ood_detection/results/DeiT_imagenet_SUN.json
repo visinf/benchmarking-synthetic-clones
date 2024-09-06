@@ -1,0 +1,9 @@
+{
+    "model": "DeiT",
+    "in_dist": "imagenet",
+    "ood_dist": "SUN",
+    "auroc": 0.803695379,
+    "aupr": 0.9394730960438228,
+    "fpr": 0.6623,
+    "score": "entropy"
+}

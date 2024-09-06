@@ -1,0 +1,9 @@
+{
+    "model": "CLIP",
+    "in_dist": "imagenet",
+    "ood_dist": "places365",
+    "auroc": 0.78008253,
+    "aupr": 0.9418669141390834,
+    "fpr": 0.7618,
+    "score": "entropy"
+}

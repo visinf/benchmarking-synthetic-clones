@@ -1,0 +1,152 @@
+[
+    {
+        "model": "vit-b",
+        "corruption": "near_focus",
+        "severity": 1,
+        "acc": 66.05
+    },
+    {
+        "model": "vit-b",
+        "corruption": "near_focus",
+        "severity": 2,
+        "acc": 64.642
+    },
+    {
+        "model": "vit-b",
+        "corruption": "near_focus",
+        "severity": 3,
+        "acc": 63.126
+    },
+    {
+        "model": "vit-b",
+        "corruption": "near_focus",
+        "severity": 4,
+        "acc": 61.712
+    },
+    {
+        "model": "vit-b",
+        "corruption": "near_focus",
+        "severity": 5,
+        "acc": 60.3084
+    },
+    {
+        "model": "vit-b",
+        "corruption": "far_focus",
+        "severity": 1,
+        "acc": 61.4327
+    },
+    {
+        "model": "vit-b",
+        "corruption": "far_focus",
+        "severity": 2,
+        "acc": 61.3131
+    },
+    {
+        "model": "vit-b",
+        "corruption": "far_focus",
+        "severity": 3,
+        "acc": 60.5158
+    },
+    {
+        "model": "vit-b",
+        "corruption": "far_focus",
+        "severity": 4,
+        "acc": 59.3518
+    },
+    {
+        "model": "vit-b",
+        "corruption": "far_focus",
+        "severity": 5,
+        "acc": 58.017
+    },
+    {
+        "model": "vit-b",
+        "corruption": "fog_3d",
+        "severity": 1,
+        "acc": 59.2265
+    },
+    {
+        "model": "vit-b",
+        "corruption": "fog_3d",
+        "severity": 2,
+        "acc": 59.4262
+    },
+    {
+        "model": "vit-b",
+        "corruption": "fog_3d",
+        "severity": 3,
+        "acc": 58.6998
+    },
+    {
+        "model": "vit-b",
+        "corruption": "fog_3d",
+        "severity": 4,
+        "acc": 57.4094
+    },
+    {
+        "model": "vit-b",
+        "corruption": "fog_3d",
+        "severity": 5,
+        "acc": 55.8015
+    },
+    {
+        "model": "vit-b",
+        "corruption": "xy_motion_blur",
+        "severity": 1,
+        "acc": 55.8413
+    },
+    {
+        "model": "vit-b",
+        "corruption": "xy_motion_blur",
+        "severity": 2,
+        "acc": 55.2725
+    },
+    {
+        "model": "vit-b",
+        "corruption": "xy_motion_blur",
+        "severity": 3,
+        "acc": 54.2514
+    },
+    {
+        "model": "vit-b",
+        "corruption": "xy_motion_blur",
+        "severity": 4,
+        "acc": 52.9398
+    },
+    {
+        "model": "vit-b",
+        "corruption": "xy_motion_blur",
+        "severity": 5,
+        "acc": 51.4638
+    },
+    {
+        "model": "vit-b",
+        "corruption": "z_motion_blur",
+        "severity": 1,
+        "acc": 51.3481
+    },
+    {
+        "model": "vit-b",
+        "corruption": "z_motion_blur",
+        "severity": 2,
+        "acc": 50.928
+    },
+    {
+        "model": "vit-b",
+        "corruption": "z_motion_blur",
+        "severity": 3,
+        "acc": 50.2761
+    },
+    {
+        "model": "vit-b",
+        "corruption": "z_motion_blur",
+        "severity": 4,
+        "acc": 49.4635
+    },
+    {
+        "model": "vit-b",
+        "corruption": "z_motion_blur",
+        "severity": 5,
+        "acc": 48.6092
+    }
+]

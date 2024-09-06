@@ -1,0 +1,6 @@
+{
+    "model": "synclr",
+    "original_acc": 0.9622222222222222,
+    "mixed_same_acc": 0.8659259259259259,
+    "mixed_rand_acc": 0.8037037037037037
+}

@@ -1,0 +1,152 @@
+[
+    {
+        "model": "dino",
+        "corruption": "shot_noise",
+        "severity": 1,
+        "acc": 79.472
+    },
+    {
+        "model": "dino",
+        "corruption": "shot_noise",
+        "severity": 2,
+        "acc": 78.02
+    },
+    {
+        "model": "dino",
+        "corruption": "shot_noise",
+        "severity": 3,
+        "acc": 75.4913
+    },
+    {
+        "model": "dino",
+        "corruption": "shot_noise",
+        "severity": 4,
+        "acc": 70.253
+    },
+    {
+        "model": "dino",
+        "corruption": "shot_noise",
+        "severity": 5,
+        "acc": 63.9916
+    },
+    {
+        "model": "dino",
+        "corruption": "motion_blur",
+        "severity": 1,
+        "acc": 66.6417
+    },
+    {
+        "model": "dino",
+        "corruption": "motion_blur",
+        "severity": 2,
+        "acc": 68.1291
+    },
+    {
+        "model": "dino",
+        "corruption": "motion_blur",
+        "severity": 3,
+        "acc": 68.4107
+    },
+    {
+        "model": "dino",
+        "corruption": "motion_blur",
+        "severity": 4,
+        "acc": 67.3889
+    },
+    {
+        "model": "dino",
+        "corruption": "motion_blur",
+        "severity": 5,
+        "acc": 65.6376
+    },
+    {
+        "model": "dino",
+        "corruption": "snow",
+        "severity": 1,
+        "acc": 66.7636
+    },
+    {
+        "model": "dino",
+        "corruption": "snow",
+        "severity": 2,
+        "acc": 67.0788
+    },
+    {
+        "model": "dino",
+        "corruption": "snow",
+        "severity": 3,
+        "acc": 67.4923
+    },
+    {
+        "model": "dino",
+        "corruption": "snow",
+        "severity": 4,
+        "acc": 67.4541
+    },
+    {
+        "model": "dino",
+        "corruption": "snow",
+        "severity": 5,
+        "acc": 67.0733
+    },
+    {
+        "model": "dino",
+        "corruption": "pixelate",
+        "severity": 1,
+        "acc": 67.9365
+    },
+    {
+        "model": "dino",
+        "corruption": "pixelate",
+        "severity": 2,
+        "acc": 68.6862
+    },
+    {
+        "model": "dino",
+        "corruption": "pixelate",
+        "severity": 3,
+        "acc": 69.2566
+    },
+    {
+        "model": "dino",
+        "corruption": "pixelate",
+        "severity": 4,
+        "acc": 69.6277
+    },
+    {
+        "model": "dino",
+        "corruption": "pixelate",
+        "severity": 5,
+        "acc": 69.8162
+    },
+    {
+        "model": "dino",
+        "corruption": "jpeg_compression",
+        "severity": 1,
+        "acc": 70.2531
+    },
+    {
+        "model": "dino",
+        "corruption": "jpeg_compression",
+        "severity": 2,
+        "acc": 70.5944
+    },
+    {
+        "model": "dino",
+        "corruption": "jpeg_compression",
+        "severity": 3,
+        "acc": 70.8612
+    },
+    {
+        "model": "dino",
+        "corruption": "jpeg_compression",
+        "severity": 4,
+        "acc": 70.9575
+    },
+    {
+        "model": "dino",
+        "corruption": "jpeg_compression",
+        "severity": 5,
+        "acc": 70.8313
+    }
+]

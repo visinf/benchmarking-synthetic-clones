@@ -1,0 +1,154 @@
+[
+    {
+        "model": "scaling_imagenet_sup",
+        "corruption": "shot_noise",
+        "severity": 1,
+        "acc": 42.48
+    },
+    {
+        "model": "scaling_imagenet_sup",
+        "corruption": "shot_noise",
+        "severity": 2,
+        "acc": 38.755
+    },
+    {
+        "model": "scaling_imagenet_sup",
+        "corruption": "shot_noise",
+        "severity": 3,
+        "acc": 34.3927
+    },
+    {
+        "model": "scaling_imagenet_sup",
+        "corruption": "shot_noise",
+        "severity": 4,
+        "acc": 28.0695
+    },
+    {
+        "model": "scaling_imagenet_sup",
+        "corruption": "shot_noise",
+        "severity": 5,
+        "acc": 22.9968,
+        "prompt_type": "captions",
+        "dataset_size": "8M"
+    },
+    {
+        "model": "scaling_imagenet_sup",
+        "corruption": "motion_blur",
+        "severity": 1,
+        "acc": 25.6163
+    },
+    {
+        "model": "scaling_imagenet_sup",
+        "corruption": "motion_blur",
+        "severity": 2,
+        "acc": 25.4063
+    },
+    {
+        "model": "scaling_imagenet_sup",
+        "corruption": "motion_blur",
+        "severity": 3,
+        "acc": 23.6208
+    },
+    {
+        "model": "scaling_imagenet_sup",
+        "corruption": "motion_blur",
+        "severity": 4,
+        "acc": 21.5091
+    },
+    {
+        "model": "scaling_imagenet_sup",
+        "corruption": "motion_blur",
+        "severity": 5,
+        "acc": 19.6276
+    },
+    {
+        "model": "scaling_imagenet_sup",
+        "corruption": "snow",
+        "severity": 1,
+        "acc": 21.6649
+    },
+    {
+        "model": "scaling_imagenet_sup",
+        "corruption": "snow",
+        "severity": 2,
+        "acc": 22.056
+    },
+    {
+        "model": "scaling_imagenet_sup",
+        "corruption": "snow",
+        "severity": 3,
+        "acc": 22.6822
+    },
+    {
+        "model": "scaling_imagenet_sup",
+        "corruption": "snow",
+        "severity": 4,
+        "acc": 22.645
+    },
+    {
+        "model": "scaling_imagenet_sup",
+        "corruption": "snow",
+        "severity": 5,
+        "acc": 22.3679
+    },
+    {
+        "model": "scaling_imagenet_sup",
+        "corruption": "pixelate",
+        "severity": 1,
+        "acc": 23.9425
+    },
+    {
+        "model": "scaling_imagenet_sup",
+        "corruption": "pixelate",
+        "severity": 2,
+        "acc": 25.1564
+    },
+    {
+        "model": "scaling_imagenet_sup",
+        "corruption": "pixelate",
+        "severity": 3,
+        "acc": 25.5483
+    },
+    {
+        "model": "scaling_imagenet_sup",
+        "corruption": "pixelate",
+        "severity": 4,
+        "acc": 24.9119
+    },
+    {
+        "model": "scaling_imagenet_sup",
+        "corruption": "pixelate",
+        "severity": 5,
+        "acc": 24.0445
+    },
+    {
+        "model": "scaling_imagenet_sup",
+        "corruption": "jpeg_compression",
+        "severity": 1,
+        "acc": 25.07
+    },
+    {
+        "model": "scaling_imagenet_sup",
+        "corruption": "jpeg_compression",
+        "severity": 2,
+        "acc": 25.8309
+    },
+    {
+        "model": "scaling_imagenet_sup",
+        "corruption": "jpeg_compression",
+        "severity": 3,
+        "acc": 26.4063
+    },
+    {
+        "model": "scaling_imagenet_sup",
+        "corruption": "jpeg_compression",
+        "severity": 4,
+        "acc": 26.6275
+    },
+    {
+        "model": "scaling_imagenet_sup",
+        "corruption": "jpeg_compression",
+        "severity": 5,
+        "acc": 26.5161
+    }
+]

@@ -1,0 +1,6 @@
+{
+    "model": "syn_clone",
+    "original_acc": 0.6644444444444444,
+    "mixed_same_acc": 0.4434567901234568,
+    "mixed_rand_acc": 0.3582716049382716
+}

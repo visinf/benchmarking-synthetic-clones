@@ -1,0 +1,152 @@
+[
+    {
+        "model": "synclr",
+        "corruption": "near_focus",
+        "severity": 1,
+        "acc": 70.778
+    },
+    {
+        "model": "synclr",
+        "corruption": "near_focus",
+        "severity": 2,
+        "acc": 69.235
+    },
+    {
+        "model": "synclr",
+        "corruption": "near_focus",
+        "severity": 3,
+        "acc": 67.552
+    },
+    {
+        "model": "synclr",
+        "corruption": "near_focus",
+        "severity": 4,
+        "acc": 65.9325
+    },
+    {
+        "model": "synclr",
+        "corruption": "near_focus",
+        "severity": 5,
+        "acc": 64.328
+    },
+    {
+        "model": "synclr",
+        "corruption": "far_focus",
+        "severity": 1,
+        "acc": 65.385
+    },
+    {
+        "model": "synclr",
+        "corruption": "far_focus",
+        "severity": 2,
+        "acc": 65.1566
+    },
+    {
+        "model": "synclr",
+        "corruption": "far_focus",
+        "severity": 3,
+        "acc": 64.2305
+    },
+    {
+        "model": "synclr",
+        "corruption": "far_focus",
+        "severity": 4,
+        "acc": 62.9493
+    },
+    {
+        "model": "synclr",
+        "corruption": "far_focus",
+        "severity": 5,
+        "acc": 61.5046
+    },
+    {
+        "model": "synclr",
+        "corruption": "fog_3d",
+        "severity": 1,
+        "acc": 62.3513
+    },
+    {
+        "model": "synclr",
+        "corruption": "fog_3d",
+        "severity": 2,
+        "acc": 62.1127
+    },
+    {
+        "model": "synclr",
+        "corruption": "fog_3d",
+        "severity": 3,
+        "acc": 61.0174
+    },
+    {
+        "model": "synclr",
+        "corruption": "fog_3d",
+        "severity": 4,
+        "acc": 59.393
+    },
+    {
+        "model": "synclr",
+        "corruption": "fog_3d",
+        "severity": 5,
+        "acc": 57.5064
+    },
+    {
+        "model": "synclr",
+        "corruption": "xy_motion_blur",
+        "severity": 1,
+        "acc": 57.2966
+    },
+    {
+        "model": "synclr",
+        "corruption": "xy_motion_blur",
+        "severity": 2,
+        "acc": 56.3816
+    },
+    {
+        "model": "synclr",
+        "corruption": "xy_motion_blur",
+        "severity": 3,
+        "acc": 55.0257
+    },
+    {
+        "model": "synclr",
+        "corruption": "xy_motion_blur",
+        "severity": 4,
+        "acc": 53.4322
+    },
+    {
+        "model": "synclr",
+        "corruption": "xy_motion_blur",
+        "severity": 5,
+        "acc": 51.7462
+    },
+    {
+        "model": "synclr",
+        "corruption": "z_motion_blur",
+        "severity": 1,
+        "acc": 51.551
+    },
+    {
+        "model": "synclr",
+        "corruption": "z_motion_blur",
+        "severity": 2,
+        "acc": 51.0185
+    },
+    {
+        "model": "synclr",
+        "corruption": "z_motion_blur",
+        "severity": 3,
+        "acc": 50.2471
+    },
+    {
+        "model": "synclr",
+        "corruption": "z_motion_blur",
+        "severity": 4,
+        "acc": 49.3163
+    },
+    {
+        "model": "synclr",
+        "corruption": "z_motion_blur",
+        "severity": 5,
+        "acc": 48.3561
+    }
+]

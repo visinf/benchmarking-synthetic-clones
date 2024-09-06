@@ -1,0 +1,9 @@
+{
+    "model": "ConvNext",
+    "in_dist": "imagenet",
+    "ood_dist": "SUN",
+    "auroc": 0.758714469,
+    "aupr": 0.9208511043064851,
+    "fpr": 0.6806,
+    "score": "entropy"
+}

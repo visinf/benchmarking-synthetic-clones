@@ -1,0 +1,6 @@
+{
+    "model": "ConvNext",
+    "original_acc": 0.9797530864197531,
+    "mixed_same_acc": 0.9395061728395062,
+    "mixed_rand_acc": 0.9039506172839507
+}

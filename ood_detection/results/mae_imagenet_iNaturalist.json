@@ -1,0 +1,9 @@
+{
+    "model": "mae",
+    "in_dist": "imagenet",
+    "ood_dist": "iNaturalist",
+    "auroc": 0.868249243,
+    "aupr": 0.9714462533455733,
+    "fpr": 0.7097,
+    "score": "entropy"
+}

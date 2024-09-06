@@ -1,0 +1,8 @@
+{
+    "model": "scaling_clip",
+    "original_acc": 0.8962962962962963,
+    "mixed_same_acc": 0.7839506172839507,
+    "mixed_rand_acc": 0.7306172839506173,
+    "prompt_type": "Syn_Real",
+    "dataset_size": "256M"
+}

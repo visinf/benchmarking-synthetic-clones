@@ -1,0 +1,6 @@
+{
+    "model": "resnet50",
+    "original_acc": 0.9543209876543209,
+    "mixed_same_acc": 0.8703703703703703,
+    "mixed_rand_acc": 0.8135802469135802
+}

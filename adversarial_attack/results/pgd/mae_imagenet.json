@@ -1,0 +1,8 @@
+[
+    {
+        "model": "mae",
+        "attack": "pgd",
+        "clean_acc": 67.594,
+        "robust_acc": 1.336
+    }
+]

@@ -1,0 +1,9 @@
+{
+    "model": "CLIP",
+    "in_dist": "imagenet",
+    "ood_dist": "SUN",
+    "auroc": 0.817689062,
+    "aupr": 0.9577158476489093,
+    "fpr": 0.7361,
+    "score": "entropy"
+}

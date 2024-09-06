@@ -1,0 +1,25 @@
+{
+    "model_name": "scaling_imagenet_sup",
+    "dataset": "cue_conflict",
+    "shape_bias": 0.6901072705601906,
+    "shape_bias_per_cat": {
+        "airplane": 0.625,
+        "bear": 0.5571428571428572,
+        "bicycle": 1.0,
+        "bird": 0.9310344827586207,
+        "boat": 0.7058823529411765,
+        "bottle": 0.6823529411764706,
+        "car": 0.7254901960784313,
+        "cat": 0.5405405405405406,
+        "chair": 0.7906976744186046,
+        "clock": 0.6336633663366337,
+        "dog": 0.7906976744186046,
+        "elephant": 0.8666666666666667,
+        "keyboard": 0.5797101449275361,
+        "knife": 0.48148148148148145,
+        "oven": 0.6590909090909091,
+        "truck": 0.7083333333333334
+    },
+    "prompt_type": "CLIP_templates",
+    "dataset_size": "16M"
+}

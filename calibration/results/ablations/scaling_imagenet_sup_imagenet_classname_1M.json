@@ -1,0 +1,11 @@
+{
+    "model": "scaling_imagenet_sup",
+    "dataset": "imagenet",
+    "test_error": 0.5574600000000001,
+    "test_nll": 3.5023815631866455,
+    "ece": 0.3299994468688965,
+    "ada ece": 0.3299994468688965,
+    "class ece": 0.0008161389851011336,
+    "prompt_type": "classname",
+    "dataset_size": "1M"
+}

@@ -1,0 +1,152 @@
+[
+    {
+        "model": "mocov3",
+        "corruption": "shot_noise",
+        "severity": 1,
+        "acc": 67.622
+    },
+    {
+        "model": "mocov3",
+        "corruption": "shot_noise",
+        "severity": 2,
+        "acc": 63.934
+    },
+    {
+        "model": "mocov3",
+        "corruption": "shot_noise",
+        "severity": 3,
+        "acc": 59.0933
+    },
+    {
+        "model": "mocov3",
+        "corruption": "shot_noise",
+        "severity": 4,
+        "acc": 51.283
+    },
+    {
+        "model": "mocov3",
+        "corruption": "shot_noise",
+        "severity": 5,
+        "acc": 43.7796
+    },
+    {
+        "model": "mocov3",
+        "corruption": "motion_blur",
+        "severity": 1,
+        "acc": 48.1233
+    },
+    {
+        "model": "mocov3",
+        "corruption": "motion_blur",
+        "severity": 2,
+        "acc": 50.266
+    },
+    {
+        "model": "mocov3",
+        "corruption": "motion_blur",
+        "severity": 3,
+        "acc": 50.3205
+    },
+    {
+        "model": "mocov3",
+        "corruption": "motion_blur",
+        "severity": 4,
+        "acc": 48.5491
+    },
+    {
+        "model": "mocov3",
+        "corruption": "motion_blur",
+        "severity": 5,
+        "acc": 46.1268
+    },
+    {
+        "model": "mocov3",
+        "corruption": "snow",
+        "severity": 1,
+        "acc": 47.3984
+    },
+    {
+        "model": "mocov3",
+        "corruption": "snow",
+        "severity": 2,
+        "acc": 46.8527
+    },
+    {
+        "model": "mocov3",
+        "corruption": "snow",
+        "severity": 3,
+        "acc": 46.6577
+    },
+    {
+        "model": "mocov3",
+        "corruption": "snow",
+        "severity": 4,
+        "acc": 45.7903
+    },
+    {
+        "model": "mocov3",
+        "corruption": "snow",
+        "severity": 5,
+        "acc": 44.6656
+    },
+    {
+        "model": "mocov3",
+        "corruption": "pixelate",
+        "severity": 1,
+        "acc": 46.366
+    },
+    {
+        "model": "mocov3",
+        "corruption": "pixelate",
+        "severity": 2,
+        "acc": 47.8041
+    },
+    {
+        "model": "mocov3",
+        "corruption": "pixelate",
+        "severity": 3,
+        "acc": 48.8923
+    },
+    {
+        "model": "mocov3",
+        "corruption": "pixelate",
+        "severity": 4,
+        "acc": 49.5243
+    },
+    {
+        "model": "mocov3",
+        "corruption": "pixelate",
+        "severity": 5,
+        "acc": 49.7779
+    },
+    {
+        "model": "mocov3",
+        "corruption": "jpeg_compression",
+        "severity": 1,
+        "acc": 50.65
+    },
+    {
+        "model": "mocov3",
+        "corruption": "jpeg_compression",
+        "severity": 2,
+        "acc": 51.3355
+    },
+    {
+        "model": "mocov3",
+        "corruption": "jpeg_compression",
+        "severity": 3,
+        "acc": 51.8827
+    },
+    {
+        "model": "mocov3",
+        "corruption": "jpeg_compression",
+        "severity": 4,
+        "acc": 52.1353
+    },
+    {
+        "model": "mocov3",
+        "corruption": "jpeg_compression",
+        "severity": 5,
+        "acc": 52.0201
+    }
+]

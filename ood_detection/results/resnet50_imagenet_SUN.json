@@ -1,0 +1,9 @@
+{
+    "model": "resnet50",
+    "in_dist": "imagenet",
+    "ood_dist": "SUN",
+    "auroc": 0.836818894,
+    "aupr": 0.9574044547288717,
+    "fpr": 0.6539,
+    "score": "entropy"
+}

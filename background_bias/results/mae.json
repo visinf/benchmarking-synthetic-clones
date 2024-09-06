@@ -1,0 +1,6 @@
+{
+    "model": "mae",
+    "original_acc": 0.5735802469135802,
+    "mixed_same_acc": 0.46469135802469136,
+    "mixed_rand_acc": 0.405679012345679
+}

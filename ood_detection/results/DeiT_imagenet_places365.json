@@ -1,0 +1,9 @@
+{
+    "model": "DeiT",
+    "in_dist": "imagenet",
+    "ood_dist": "places365",
+    "auroc": 0.7957420639999999,
+    "aupr": 0.9365259244711909,
+    "fpr": 0.6825,
+    "score": "entropy"
+}

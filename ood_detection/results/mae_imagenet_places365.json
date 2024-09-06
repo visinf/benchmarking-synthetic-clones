@@ -1,0 +1,9 @@
+{
+    "model": "mae",
+    "in_dist": "imagenet",
+    "ood_dist": "places365",
+    "auroc": 0.750358101,
+    "aupr": 0.9366219228978951,
+    "fpr": 0.8595,
+    "score": "entropy"
+}

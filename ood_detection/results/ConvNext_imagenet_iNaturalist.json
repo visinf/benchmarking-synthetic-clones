@@ -1,0 +1,9 @@
+{
+    "model": "ConvNext",
+    "in_dist": "imagenet",
+    "ood_dist": "iNaturalist",
+    "auroc": 0.8888956560000001,
+    "aupr": 0.9684795832475444,
+    "fpr": 0.4513,
+    "score": "entropy"
+}

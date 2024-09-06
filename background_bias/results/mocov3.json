@@ -1,0 +1,6 @@
+{
+    "model": "mocov3",
+    "original_acc": 0.9501234567901234,
+    "mixed_same_acc": 0.8362962962962963,
+    "mixed_rand_acc": 0.7417283950617284
+}

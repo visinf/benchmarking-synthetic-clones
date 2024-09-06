@@ -1,0 +1,79 @@
+% This file was created with tikzplotlib v0.10.1.
+\begin{tikzpicture}
+
+\definecolor{darkgray176}{RGB}{176,176,176}
+\definecolor{lightgray204}{RGB}{204,204,204}
+\definecolor{pink}{RGB}{255,192,203}
+
+\begin{axis}[
+height=\figheight,
+legend cell align={left},
+legend style={
+  fill opacity=0.8,
+  draw opacity=1,
+  text opacity=1,
+  at={(0.03,0.97)},
+  anchor=north west,
+  draw=lightgray204
+},
+tick align=outside,
+tick pos=left,
+width=\figwidth,
+x grid style={darkgray176},
+xlabel={Confidence},
+xmin=-0.05, xmax=1.05,
+xtick style={color=black},
+y grid style={darkgray176},
+ylabel={Accuracy},
+ymin=0, ymax=1.02900883838384,
+ytick style={color=black}
+]
+\draw[draw=none,fill=pink] (axis cs:0,0) rectangle (axis cs:0.05,0);
+\addlegendimage{ybar,ybar legend,draw=none,fill=pink}
+\addlegendentry{Expected}
+
+\draw[draw=none,fill=pink] (axis cs:0.05,0) rectangle (axis cs:0.1,0.05);
+\draw[draw=none,fill=pink] (axis cs:0.1,0) rectangle (axis cs:0.15,0.1);
+\draw[draw=none,fill=pink] (axis cs:0.15,0) rectangle (axis cs:0.2,0.15);
+\draw[draw=none,fill=pink] (axis cs:0.2,0) rectangle (axis cs:0.25,0.2);
+\draw[draw=none,fill=pink] (axis cs:0.25,0) rectangle (axis cs:0.3,0.25);
+\draw[draw=none,fill=pink] (axis cs:0.3,0) rectangle (axis cs:0.35,0.3);
+\draw[draw=none,fill=pink] (axis cs:0.35,0) rectangle (axis cs:0.4,0.35);
+\draw[draw=none,fill=pink] (axis cs:0.4,0) rectangle (axis cs:0.45,0.4);
+\draw[draw=none,fill=pink] (axis cs:0.45,0) rectangle (axis cs:0.5,0.45);
+\draw[draw=none,fill=pink] (axis cs:0.5,0) rectangle (axis cs:0.55,0.5);
+\draw[draw=none,fill=pink] (axis cs:0.55,0) rectangle (axis cs:0.6,0.55);
+\draw[draw=none,fill=pink] (axis cs:0.6,0) rectangle (axis cs:0.65,0.6);
+\draw[draw=none,fill=pink] (axis cs:0.65,0) rectangle (axis cs:0.7,0.65);
+\draw[draw=none,fill=pink] (axis cs:0.7,0) rectangle (axis cs:0.75,0.7);
+\draw[draw=none,fill=pink] (axis cs:0.75,0) rectangle (axis cs:0.8,0.75);
+\draw[draw=none,fill=pink] (axis cs:0.8,0) rectangle (axis cs:0.85,0.8);
+\draw[draw=none,fill=pink] (axis cs:0.85,0) rectangle (axis cs:0.9,0.85);
+\draw[draw=none,fill=pink] (axis cs:0.9,0) rectangle (axis cs:0.95,0.9);
+\draw[draw=none,fill=pink] (axis cs:0.95,0) rectangle (axis cs:1,0.95);
+\draw[draw=none,fill=blue,fill opacity=0.5] (axis cs:0,0) rectangle (axis cs:0.05,0.0470347648261759);
+\addlegendimage{ybar,ybar legend,draw=none,fill=blue,fill opacity=0.5}
+\addlegendentry{Actual}
+
+\draw[draw=none,fill=blue,fill opacity=0.5] (axis cs:0.05,0) rectangle (axis cs:0.1,0.120528771384137);
+\draw[draw=none,fill=blue,fill opacity=0.5] (axis cs:0.1,0) rectangle (axis cs:0.15,0.192764857881137);
+\draw[draw=none,fill=blue,fill opacity=0.5] (axis cs:0.15,0) rectangle (axis cs:0.2,0.250181818181818);
+\draw[draw=none,fill=blue,fill opacity=0.5] (axis cs:0.2,0) rectangle (axis cs:0.25,0.285963382737576);
+\draw[draw=none,fill=blue,fill opacity=0.5] (axis cs:0.25,0) rectangle (axis cs:0.3,0.362649294245385);
+\draw[draw=none,fill=blue,fill opacity=0.5] (axis cs:0.3,0) rectangle (axis cs:0.35,0.373639661426844);
+\draw[draw=none,fill=blue,fill opacity=0.5] (axis cs:0.35,0) rectangle (axis cs:0.4,0.432357043235704);
+\draw[draw=none,fill=blue,fill opacity=0.5] (axis cs:0.4,0) rectangle (axis cs:0.45,0.48503937007874);
+\draw[draw=none,fill=blue,fill opacity=0.5] (axis cs:0.45,0) rectangle (axis cs:0.5,0.523076923076923);
+\draw[draw=none,fill=blue,fill opacity=0.5] (axis cs:0.5,0) rectangle (axis cs:0.55,0.4992);
+\draw[draw=none,fill=blue,fill opacity=0.5] (axis cs:0.55,0) rectangle (axis cs:0.6,0.579510703363914);
+\draw[draw=none,fill=blue,fill opacity=0.5] (axis cs:0.6,0) rectangle (axis cs:0.65,0.663382594417077);
+\draw[draw=none,fill=blue,fill opacity=0.5] (axis cs:0.65,0) rectangle (axis cs:0.7,0.671052631578947);
+\draw[draw=none,fill=blue,fill opacity=0.5] (axis cs:0.7,0) rectangle (axis cs:0.75,0.72316384180791);
+\draw[draw=none,fill=blue,fill opacity=0.5] (axis cs:0.75,0) rectangle (axis cs:0.8,0.782828282828283);
+\draw[draw=none,fill=blue,fill opacity=0.5] (axis cs:0.8,0) rectangle (axis cs:0.85,0.820111731843575);
+\draw[draw=none,fill=blue,fill opacity=0.5] (axis cs:0.85,0) rectangle (axis cs:0.9,0.864864864864865);
+\draw[draw=none,fill=blue,fill opacity=0.5] (axis cs:0.9,0) rectangle (axis cs:0.95,0.923292797006548);
+\draw[draw=none,fill=blue,fill opacity=0.5] (axis cs:0.95,0) rectangle (axis cs:1,0.980008417508417);
+\end{axis}
+
+\end{tikzpicture}

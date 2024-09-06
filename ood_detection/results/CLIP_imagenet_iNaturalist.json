@@ -1,0 +1,9 @@
+{
+    "model": "CLIP",
+    "in_dist": "imagenet",
+    "ood_dist": "iNaturalist",
+    "auroc": 0.683235294,
+    "aupr": 0.917531573100837,
+    "fpr": 0.8843,
+    "score": "entropy"
+}

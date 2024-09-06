@@ -1,0 +1,9 @@
+{
+    "model": "synclr",
+    "in_dist": "imagenet",
+    "ood_dist": "SUN",
+    "auroc": 0.8471976800000001,
+    "aupr": 0.956357904157942,
+    "fpr": 0.5758,
+    "score": "entropy"
+}

@@ -1,0 +1,9 @@
+{
+    "model": "syn_clone",
+    "in_dist": "imagenet",
+    "ood_dist": "iNaturalist",
+    "auroc": 0.718145129,
+    "aupr": 0.9303658456507468,
+    "fpr": 0.8897,
+    "score": "entropy"
+}

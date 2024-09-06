@@ -1,0 +1,8 @@
+[
+    {
+        "model": "CLIP",
+        "attack": "fgsm",
+        "clean_acc": 68.268,
+        "robust_acc": 8.752
+    }
+]

@@ -1,0 +1,11 @@
+{
+    "model": "scaling_clip",
+    "dataset": "imagenet",
+    "test_error": 0.44886000000000004,
+    "test_nll": 2.007129669189453,
+    "ece": 0.15616533160209656,
+    "ada ece": 0.1561642289161682,
+    "class ece": 0.0005413421313278377,
+    "prompt_type": "Synthetic",
+    "dataset_size": "371M"
+}

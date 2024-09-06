@@ -1,0 +1,6 @@
+{
+    "model": "dino",
+    "original_acc": 0.9795061728395061,
+    "mixed_same_acc": 0.9192592592592592,
+    "mixed_rand_acc": 0.8595061728395061
+}

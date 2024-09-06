@@ -1,0 +1,6 @@
+{
+    "model": "DeiT",
+    "original_acc": 0.977037037037037,
+    "mixed_same_acc": 0.9328395061728395,
+    "mixed_rand_acc": 0.899753086419753
+}

@@ -1,0 +1,9 @@
+{
+    "model": "syn_clone",
+    "in_dist": "imagenet",
+    "ood_dist": "SUN",
+    "auroc": 0.7006775980000001,
+    "aupr": 0.9069521817462087,
+    "fpr": 0.8337,
+    "score": "entropy"
+}

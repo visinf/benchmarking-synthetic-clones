@@ -1,0 +1,8 @@
+[
+    {
+        "model": "synclr",
+        "attack": "pgd",
+        "clean_acc": 80.456,
+        "robust_acc": 6.176
+    }
+]

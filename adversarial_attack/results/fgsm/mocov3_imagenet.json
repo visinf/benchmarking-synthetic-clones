@@ -1,0 +1,8 @@
+[
+    {
+        "model": "mocov3",
+        "attack": "fgsm",
+        "clean_acc": 76.662,
+        "robust_acc": 13.206
+    }
+]

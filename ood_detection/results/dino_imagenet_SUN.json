@@ -1,0 +1,9 @@
+{
+    "model": "dino",
+    "in_dist": "imagenet",
+    "ood_dist": "SUN",
+    "auroc": 0.879497676,
+    "aupr": 0.9694939872609566,
+    "fpr": 0.4907,
+    "score": "entropy"
+}

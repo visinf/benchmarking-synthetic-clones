@@ -1,0 +1,9 @@
+{
+    "model": "ConvNext",
+    "in_dist": "imagenet",
+    "ood_dist": "places365",
+    "auroc": 0.7413611840000001,
+    "aupr": 0.9149544745138545,
+    "fpr": 0.7091,
+    "score": "entropy"
+}

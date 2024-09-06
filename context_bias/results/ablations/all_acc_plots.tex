@@ -1,0 +1,70 @@
+\begin{tabular}{lrllll}
+    \toprule
+    model & P0 & P1 & P2 & prompt & num_data_points \\
+    \midrule
+    ViT-B (Syn.) & 67.71 & 46.28 (68.36) & 35.01 (51.71) & captions & 1M \\
+    ViT-B (Syn.) & 68.83 & 49.15 (71.4)  & 40.5 (58.84) & captions & 4M \\
+    ViT-B (Syn.) & 70.86 & 51.17 (72.22) & 40.8 (57.58) & captions & 8M \\
+    ViT-B (Syn.) & 70.79 & 51.1 (72.19)  & 41.69 (58.89) & captions & 16M \\
+    ViT-B (Syn.) & 65.37 & 40.99 (62.71) & 30.56 (46.75) & classname & 1M \\
+    ViT-B (Syn.) & 65.14 & 42.22 (64.81) & 30.42 (46.69) & classname & 4M \\
+    ViT-B (Syn.) & 66.18 & 43.52 (65.77) & 31.16 (47.08) & classname & 8M \\
+    ViT-B (Syn.) & 66.98 & 44.29 (66.13) & 33.68 (50.29) & classname & 16M \\
+    ViT-B (Syn.) & 68.51 & 44.69 (65.24) & 32.34 (47.21) & CLIP_templates & 1M \\
+    ViT-B (Syn.) & 72.80 & 49.48 (67.97) & 38.28 (52.58) & CLIP_templates & 4M \\
+    ViT-B (Syn.) & 71.88 & 48.44 (67.4)  & 35.61 (49.54) & CLIP_templates & 8M \\
+    ViT-B (Syn.) & 72.62 & 48.9 (67.33)  & 36.65 (50.47) & CLIP_templates & 16M \\
+
+
+    CLIP (Syn.) & 74.10 & 51.49 (69.48) & 38.58 (52.06) & REAL & 64M \\
+    CLIP (Syn.) & 76.80 & 55.54 (72.32) & 39.61 (51.58) & REAL & 128M \\
+    CLIP (Syn.) & 77.67 & 56.23 (72.4) & 44.36 (57.12) & REAL & 256M \\
+    CLIP (Syn.) & 79.48 & 58.25 (73.3) & 48.66 (61.23) & REAL & 371M \\
+    CLIP (Syn.) & 76.95 & 56.7 (73.68) & 47.03 (61.12) & Syn+Real & 64M \\
+    CLIP (Syn.) & 76.71 & 55.14 (71.88) & 44.36 (57.83) & Syn+Real & 128M \\
+    CLIP (Syn.) & 79.93 & 59.86 (74.89) & 49.26 (61.62) & Syn+Real & 256M \\
+    CLIP (Syn.) & 80.44 & 59.34 (73.77) & 49.26 (61.23) & Syn+Real & 371M \\
+    CLIP (Syn.) & 74.10 & 52.38 (70.69) & 42.73 (57.67) & Synthetic & 64M \\
+    CLIP (Syn.) & 72.77 & 52.36 (71.95) & 38.28 (52.6) & Synthetic & 128M \\
+    CLIP (Syn.) & 75.52 & 56.33 (74.58) & 41.84 (55.4) & Synthetic & 256M \\
+    CLIP (Syn.) & 75.83 & 54.2 (71.47) & 41.25 (54.39) & Synthetic & 371M \\
+    \bottomrule
+    \end{tabular}
+    
+
+    ViT-B (Syn.)   & 46.75 & classname & 1M \\
+    ViT-B (Syn.)   & 46.69 & classname & 4M \\
+    ViT-B (Syn.)   & 47.08 & classname & 8M \\
+    ViT-B (Syn.)   & 50.29 & classname & 16M \\   
+
+
+
+    ViT-B (Syn.)   & 51.71 & captions & 1M \\
+    ViT-B (Syn.)   & 58.84 & captions & 4M \\
+    ViT-B (Syn.)   & 57.58 & captions & 8M \\
+    ViT-B (Syn.)   & 58.89 & captions & 16M \\
+
+
+
+    ViT-B (Syn.)   & 47.21 & CLIP_templates & 1M \\
+    ViT-B (Syn.)   & 52.58 & CLIP_templates & 4M \\
+    ViT-B (Syn.)   & 49.54 & CLIP_templates & 8M \\
+    ViT-B (Syn.)   & 50.47 & CLIP_templates & 16M \\
+
+  
+  
+52.06 & REAL & 64M \\
+51.58 & REAL & 128M \\
+57.12 & REAL & 256M \\
+61.23 & REAL & 371M \\
+57.67 & Synthetic & 64M \\
+52.60 & Synthetic & 128M \\
+55.40 & Synthetic & 256M \\
+54.39 & Synthetic & 371M \\
+61.12 & Syn+Real & 64M \\
+57.83 & Syn+Real & 128M \\
+61.62 & Syn+Real & 256M \\
+61.23 & Syn+Real & 371M \\
+
+
+52.06 & 51.58 & 57.12 &61.23 & 57.67 & 52.60 & 55.40 & 54.39 & 61.12 & 57.83 & 61.62 & 61.23

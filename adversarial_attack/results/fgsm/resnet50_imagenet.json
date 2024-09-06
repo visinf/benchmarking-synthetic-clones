@@ -1,0 +1,8 @@
+[
+    {
+        "model": "resnet50",
+        "attack": "fgsm",
+        "clean_acc": 80.118,
+        "robust_acc": 26.948
+    }
+]

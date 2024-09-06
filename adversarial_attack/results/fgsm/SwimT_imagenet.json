@@ -1,0 +1,8 @@
+[
+    {
+        "model": "SwimT",
+        "attack": "fgsm",
+        "clean_acc": 83.08,
+        "robust_acc": 48.592
+    }
+]

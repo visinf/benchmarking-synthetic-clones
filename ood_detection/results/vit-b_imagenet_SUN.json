@@ -1,0 +1,9 @@
+{
+    "model": "vit-b",
+    "in_dist": "imagenet",
+    "ood_dist": "SUN",
+    "auroc": 0.810297971,
+    "aupr": 0.9415712277065863,
+    "fpr": 0.64,
+    "score": "entropy"
+}

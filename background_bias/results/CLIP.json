@@ -1,0 +1,6 @@
+{
+    "model": "CLIP",
+    "original_acc": 0.9330864197530864,
+    "mixed_same_acc": 0.8308641975308642,
+    "mixed_rand_acc": 0.7718518518518519
+}

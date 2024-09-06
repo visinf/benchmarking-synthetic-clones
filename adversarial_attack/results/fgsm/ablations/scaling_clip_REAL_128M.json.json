@@ -1,0 +1,10 @@
+[
+    {
+        "model": "scaling_clip",
+        "attack": "fgsm",
+        "clean_acc": 60.5,
+        "robust_acc": 4.388,
+        "prompt_type": "REAL",
+        "dataset_size": "128M"
+    }
+]

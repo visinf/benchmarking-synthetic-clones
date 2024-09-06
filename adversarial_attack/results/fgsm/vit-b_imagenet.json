@@ -1,0 +1,8 @@
+[
+    {
+        "model": "vit-b",
+        "attack": "fgsm",
+        "clean_acc": 76.784,
+        "robust_acc": 27.386
+    }
+]

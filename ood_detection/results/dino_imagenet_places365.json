@@ -1,0 +1,9 @@
+{
+    "model": "dino",
+    "in_dist": "imagenet",
+    "ood_dist": "places365",
+    "auroc": 0.872253947,
+    "aupr": 0.9678167052581375,
+    "fpr": 0.5252,
+    "score": "entropy"
+}

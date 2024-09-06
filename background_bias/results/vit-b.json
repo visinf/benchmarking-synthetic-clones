@@ -1,0 +1,6 @@
+{
+    "model": "vit-b",
+    "original_acc": 0.9597530864197531,
+    "mixed_same_acc": 0.8753086419753087,
+    "mixed_rand_acc": 0.7962962962962963
+}

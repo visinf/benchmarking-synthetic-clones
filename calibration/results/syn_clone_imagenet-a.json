@@ -1,0 +1,9 @@
+{
+    "model": "syn_clone",
+    "dataset": "imagenet-a",
+    "test_error": 0.9644,
+    "test_nll": 5.9848713874816895,
+    "ece": 0.28752410411834717,
+    "ada ece": 0.28752005100250244,
+    "class ece": 0.005751799326390028
+}

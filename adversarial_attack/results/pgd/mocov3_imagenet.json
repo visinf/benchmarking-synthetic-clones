@@ -1,0 +1,8 @@
+[
+    {
+        "model": "mocov3",
+        "attack": "pgd",
+        "clean_acc": 76.662,
+        "robust_acc": 9.106
+    }
+]

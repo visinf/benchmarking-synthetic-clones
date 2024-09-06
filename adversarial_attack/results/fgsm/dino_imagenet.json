@@ -1,0 +1,8 @@
+[
+    {
+        "model": "dino",
+        "attack": "fgsm",
+        "clean_acc": 84.49,
+        "robust_acc": 19.102
+    }
+]

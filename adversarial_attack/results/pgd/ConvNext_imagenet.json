@@ -1,0 +1,8 @@
+[
+    {
+        "model": "ConvNext",
+        "attack": "pgd",
+        "clean_acc": 85.518,
+        "robust_acc": 17.508
+    }
+]

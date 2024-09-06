@@ -1,0 +1,9 @@
+{
+    "model": "dino",
+    "in_dist": "imagenet",
+    "ood_dist": "iNaturalist",
+    "auroc": 0.9779059379999999,
+    "aupr": 0.9953812407414604,
+    "fpr": 0.0926,
+    "score": "entropy"
+}

@@ -1,0 +1,9 @@
+{
+    "model": "SwimT",
+    "in_dist": "imagenet",
+    "ood_dist": "SUN",
+    "auroc": 0.7895500379999999,
+    "aupr": 0.9295746580481308,
+    "fpr": 0.6296,
+    "score": "entropy"
+}

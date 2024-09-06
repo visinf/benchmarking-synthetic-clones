@@ -1,0 +1,73 @@
+\begin{tabular}{lllr}
+\toprule
+model , num_imgs , prompt_type , Avg \\
+\midrule
+
+
+\bottomrule
+\end{tabular}
+
+scaling_clip , 64M , Synthetic , 13.93  , 47.42
+scaling_clip , 128M , Synthetic , 14.04 , 50.57 
+scaling_clip , 256M , Synthetic , 16.43 , 53.63 
+scaling_clip , 371M , Synthetic , 17.35 , 55.11
+
+
+scaling_clip , 64M , Syn_Real , 25.84 ,  55.86
+scaling_clip , 128M , Syn_Real , 30.15 , 62.44 
+scaling_clip , 256M , Syn_Real , 33.63 , 65.02 
+scaling_clip , 371M , Syn_Real , 34.09 , 66.13 
+
+
+scaling_clip , 64M , REAL , 24.25 , 54.60 
+scaling_clip , 128M , REAL , 28.08 , 60.50
+scaling_clip , 256M , REAL , 32.67 , 64.63 
+scaling_clip , 371M , REAL , 34.49 , 66.31
+
+
+
+scaling_imagenet_sup , 1M , captions , 18.59 , 50.58 
+scaling_imagenet_sup , 4M , captions , 24.88 , 58.114
+scaling_imagenet_sup , 8M , captions , 25.92 , 59.53
+scaling_imagenet_sup , 16M , captions , 26.46 , 60.40
+
+
+scaling_imagenet_sup , 1M , classname , 17.08 , 44.25
+scaling_imagenet_sup , 4M , classname , 20.74 , 48.88 
+scaling_imagenet_sup , 8M , classname , 21.61 , 49.95
+scaling_imagenet_sup , 16M , classname , 21.63 , 50.96
+
+
+scaling_imagenet_sup , 1M , templates , 19.65 , 44.93
+scaling_imagenet_sup , 4M , templates , 27.26 , 52.96
+scaling_imagenet_sup , 8M , templates , 29.42 , 54.01
+scaling_imagenet_sup , 16M , templates , 29.73 , 54.77
+
+VIT-B(Syn.)
+Acc. & 44.25 & 48.88 & 49.95 & 50.96 & 50.58 & 58.11 & 59.53 & 60.40 & 44.93 & 52.96 & 54.01 & 54.77 \\
+
+scaling_clip , 64M , Synthetic , 13.93  , 47.42
+scaling_clip , 128M , Synthetic , 14.04 , 50.57 
+scaling_clip , 256M , Synthetic , 16.43 , 53.63 
+scaling_clip , 371M , Synthetic , 17.35 , 55.11\
+
+
+scaling_clip	64M	Synthetic	13.93	47.42	    0.7062420919
+scaling_clip	128M	Synthetic	14.04	50.57	0.7223650386
+scaling_clip	256M	Synthetic	16.43	53.63	0.6936416185
+scaling_clip	371M	Synthetic	17.35	55.11	0.6851751043
+
+scaling_clip	64M	Syn_Real	25.84	55.86	    0.537414966
+scaling_clip	128M	Syn_Real	30.15	62.44	0.517136451
+scaling_clip	256M	Syn_Real	33.63	65.02	0.4827745309
+scaling_clip	371M	Syn_Real	34.09	66.13	0.4845002268
+
+scaling_clip	64M	REAL	24.25	54.6	    0.5558608059
+scaling_clip	128M	REAL	28.08	60.5	0.5358677686
+scaling_clip	256M	REAL	32.67	64.63	0.4945071948
+scaling_clip	371M	REAL	34.49	66.31	0.47986729
+
+
+CLIP
+Acc. & 54.60 & 60.50 & 64.63 & 66.31 & 47.42 & 50.57 & 53.63 & 55.11 & 55.86 & 62.44 & 65.02 & 66.13
+

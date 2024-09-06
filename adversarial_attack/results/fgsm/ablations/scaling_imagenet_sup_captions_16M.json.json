@@ -1,0 +1,10 @@
+[
+    {
+        "model": "scaling_imagenet_sup",
+        "attack": "fgsm",
+        "clean_acc": 60.4,
+        "robust_acc": 10.234,
+        "prompt_type": "captions",
+        "dataset_size": "16M"
+    }
+]

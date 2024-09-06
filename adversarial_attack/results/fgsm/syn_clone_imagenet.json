@@ -1,0 +1,8 @@
+[
+    {
+        "model": "syn_clone",
+        "attack": "fgsm",
+        "clean_acc": 42.894,
+        "robust_acc": 2.122
+    }
+]

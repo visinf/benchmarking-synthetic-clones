@@ -1,0 +1,152 @@
+[
+    {
+        "model": "resnet50",
+        "corruption": "near_focus",
+        "severity": 1,
+        "acc": 68.042
+    },
+    {
+        "model": "resnet50",
+        "corruption": "near_focus",
+        "severity": 2,
+        "acc": 66.293
+    },
+    {
+        "model": "resnet50",
+        "corruption": "near_focus",
+        "severity": 3,
+        "acc": 64.4953
+    },
+    {
+        "model": "resnet50",
+        "corruption": "near_focus",
+        "severity": 4,
+        "acc": 62.7865
+    },
+    {
+        "model": "resnet50",
+        "corruption": "near_focus",
+        "severity": 5,
+        "acc": 61.134
+    },
+    {
+        "model": "resnet50",
+        "corruption": "far_focus",
+        "severity": 1,
+        "acc": 62.3893
+    },
+    {
+        "model": "resnet50",
+        "corruption": "far_focus",
+        "severity": 2,
+        "acc": 62.2886
+    },
+    {
+        "model": "resnet50",
+        "corruption": "far_focus",
+        "severity": 3,
+        "acc": 61.374
+    },
+    {
+        "model": "resnet50",
+        "corruption": "far_focus",
+        "severity": 4,
+        "acc": 60.0707
+    },
+    {
+        "model": "resnet50",
+        "corruption": "far_focus",
+        "severity": 5,
+        "acc": 58.598
+    },
+    {
+        "model": "resnet50",
+        "corruption": "fog_3d",
+        "severity": 1,
+        "acc": 59.7256
+    },
+    {
+        "model": "resnet50",
+        "corruption": "fog_3d",
+        "severity": 2,
+        "acc": 60.0033
+    },
+    {
+        "model": "resnet50",
+        "corruption": "fog_3d",
+        "severity": 3,
+        "acc": 59.3843
+    },
+    {
+        "model": "resnet50",
+        "corruption": "fog_3d",
+        "severity": 4,
+        "acc": 58.2037
+    },
+    {
+        "model": "resnet50",
+        "corruption": "fog_3d",
+        "severity": 5,
+        "acc": 56.6871
+    },
+    {
+        "model": "resnet50",
+        "corruption": "xy_motion_blur",
+        "severity": 1,
+        "acc": 56.5941
+    },
+    {
+        "model": "resnet50",
+        "corruption": "xy_motion_blur",
+        "severity": 2,
+        "acc": 55.8107
+    },
+    {
+        "model": "resnet50",
+        "corruption": "xy_motion_blur",
+        "severity": 3,
+        "acc": 54.5757
+    },
+    {
+        "model": "resnet50",
+        "corruption": "xy_motion_blur",
+        "severity": 4,
+        "acc": 53.0791
+    },
+    {
+        "model": "resnet50",
+        "corruption": "xy_motion_blur",
+        "severity": 5,
+        "acc": 51.4647
+    },
+    {
+        "model": "resnet50",
+        "corruption": "z_motion_blur",
+        "severity": 1,
+        "acc": 51.5003
+    },
+    {
+        "model": "resnet50",
+        "corruption": "z_motion_blur",
+        "severity": 2,
+        "acc": 51.184
+    },
+    {
+        "model": "resnet50",
+        "corruption": "z_motion_blur",
+        "severity": 3,
+        "acc": 50.607
+    },
+    {
+        "model": "resnet50",
+        "corruption": "z_motion_blur",
+        "severity": 4,
+        "acc": 49.8403
+    },
+    {
+        "model": "resnet50",
+        "corruption": "z_motion_blur",
+        "severity": 5,
+        "acc": 49.0193
+    }
+]

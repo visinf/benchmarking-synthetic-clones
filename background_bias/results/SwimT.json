@@ -1,0 +1,6 @@
+{
+    "model": "SwimT",
+    "original_acc": 0.965679012345679,
+    "mixed_same_acc": 0.8832098765432099,
+    "mixed_rand_acc": 0.825679012345679
+}

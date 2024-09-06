@@ -1,0 +1,9 @@
+{
+    "model": "mae",
+    "in_dist": "imagenet",
+    "ood_dist": "SUN",
+    "auroc": 0.7619994860000001,
+    "aupr": 0.9379099806129008,
+    "fpr": 0.8449,
+    "score": "entropy"
+}

@@ -1,0 +1,9 @@
+{
+    "model": "DeiT",
+    "in_dist": "imagenet",
+    "ood_dist": "iNaturalist",
+    "auroc": 0.8917453660000001,
+    "aupr": 0.9704631267672328,
+    "fpr": 0.4829,
+    "score": "entropy"
+}
