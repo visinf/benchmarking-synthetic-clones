@@ -1,6 +1,7 @@
-# Is Synthetic Data all We Need? Benchmarking the Robustness of Models Trained with Synthetic Images
+# Is Synthetic Data all We Need? Benchmarking the Robustness of Models Trained with Synthetic Images [CVPRW 2024]
 CVPR 2024 Workshop SyntaGen: Harnessing Generative Models for Synthetic Visual Dataset
 
+**[Paper](https://openreview.net/pdf?id=wPW3k20lkW)**  **[arXiv](https://arxiv.org/abs/2405.20469)** **[Project Page](https://synbenchmark.github.io/SynCloneBenchmark/)**
 # Dependencies
 The repo depends upon the following
 
