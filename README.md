@@ -1,5 +1,7 @@
-# Is Synthetic Data All We Need? Benchmarking the Robustness of Models Trained with Synthetic Images [CVPRW 2024]
-CVPR 2024 Workshop SyntaGen: Harnessing Generative Models for Synthetic Visual Dataset
+# Is Synthetic Data All We Need? Benchmarking the Robustness of Models Trained with Synthetic Images
+This is the official repository accompanying the CVPR Workshop paper:
+
+[Is Synthetic Data All We Need? Benchmarking the Robustness of Models Trained with Synthetic Images (CVPR Workshops 2024)](https://openaccess.thecvf.com/content/CVPR2024W/SyntaGen/papers/Singh_Is_Synthetic_Data_all_We_Need_Benchmarking_the_Robustness_of_CVPRW_2024_paper.pdf)
 
 **[![arXiv](https://img.shields.io/badge/arXiv-2403.16292-b31b1b.svg)](https://arxiv.org/abs/2405.20469)** 
 
@@ -107,7 +109,7 @@ bash scripts/run_clip_pdg.sh
 
 
 ## **License**
-Apache2 license.
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## **Contact**
 Krishnakant Singh (firstname.lastname@visinf.tu-darmstadt.de)  
