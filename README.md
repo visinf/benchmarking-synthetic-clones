@@ -17,6 +17,7 @@ PyTorch 2.2.1
 CUDA 12.1
 
 # 🚜 **Environment**
+```
 conda create -n bench-syn-clone python==3.8.5
 
 conda activate bench-syn-clone
@@ -24,6 +25,7 @@ conda activate bench-syn-clone
 conda install pytorch==2.2.1 torchvision==0.17.1 torchaudio==2.2.1 pytorch-cuda=12.1 -c pytorch -c nvidia
 
 pip install -r requirements.txt
+```
 
 # 💻 **Model Files**
 The pretrained models files that we used in our paper can be downloaded from [here](https://drive.google.com/file/d/1BYLwWGa6lPCGDXLPzH0H4dvW1FRMfQZV/view?usp=sharing).
